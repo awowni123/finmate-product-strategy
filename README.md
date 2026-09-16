@@ -1,6 +1,6 @@
 # FinMate – Student FinTech Product Strategy
 
-FinMate is a student-focused fintech product concept developed for **ProduScope 2025: The Product Case Study Competition, IIT Guwahati**, where the project secured **Rank 1**.
+FinMate is a student-focused fintech product concept developed for **ProduScope 2025: The Product Case Study Competition, IIT Guwahati**.
 
 The project combines **primary research, product analytics, feature prioritization, GTM strategy, and AI-assisted prototyping** to address common financial challenges faced by college students.
 
